@@ -1,0 +1,15 @@
+.organization-add-to-organizations-link {
+    text-decoration: none;
+    color: grey;
+    margin-left: 5px;
+    font-size: 1.8ch;
+}
+
+.organization-is-friend > label {
+    font-size: 1.8ch;
+    color: grey;
+}
+
+.organization-is-friend > input {
+    margin-left: 5px;
+}

@@ -1,0 +1,18 @@
+.login-title {
+    text-align: center;
+    color: grey;
+}
+
+.login-show-password > label {
+    font-size: 1.8ch;
+    color: grey;
+}
+
+.login-show-password > input {
+    margin-left: 5px;
+}
+
+.error-login-message {
+    font-size: 1.8ch;
+    color: brown;
+}

@@ -1,0 +1,17 @@
+C:\Users\victor\Source\Repos\DnD_API\Infrastracture\obj\Debug\net6.0\Infrastracture.csproj.AssemblyReference.cache
+C:\Users\victor\Source\Repos\DnD_API\Infrastracture\obj\Debug\net6.0\Infrastracture.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victor\Source\Repos\DnD_API\Infrastracture\obj\Debug\net6.0\Infrastracture.AssemblyInfoInputs.cache
+C:\Users\victor\Source\Repos\DnD_API\Infrastracture\obj\Debug\net6.0\Infrastracture.AssemblyInfo.cs
+C:\Users\victor\Source\Repos\DnD_API\Infrastracture\obj\Debug\net6.0\Infrastracture.csproj.CoreCompileInputs.cache
+C:\Users\victor\Source\Repos\DnD_API\Infrastracture\bin\Debug\net6.0\Infrastracture.deps.json
+C:\Users\victor\Source\Repos\DnD_API\Infrastracture\bin\Debug\net6.0\Infrastracture.runtimeconfig.json
+C:\Users\victor\Source\Repos\DnD_API\Infrastracture\bin\Debug\net6.0\Infrastracture.dll
+C:\Users\victor\Source\Repos\DnD_API\Infrastracture\bin\Debug\net6.0\Infrastracture.pdb
+C:\Users\victor\Source\Repos\DnD_API\Infrastracture\bin\Debug\net6.0\ApplicationCore.dll
+C:\Users\victor\Source\Repos\DnD_API\Infrastracture\bin\Debug\net6.0\ApplicationCore.pdb
+C:\Users\victor\Source\Repos\DnD_API\Infrastracture\obj\Debug\net6.0\Infrastracture.csproj.CopyComplete
+C:\Users\victor\Source\Repos\DnD_API\Infrastracture\obj\Debug\net6.0\Infrastracture.dll
+C:\Users\victor\Source\Repos\DnD_API\Infrastracture\obj\Debug\net6.0\refint\Infrastracture.dll
+C:\Users\victor\Source\Repos\DnD_API\Infrastracture\obj\Debug\net6.0\Infrastracture.pdb
+C:\Users\victor\Source\Repos\DnD_API\Infrastracture\obj\Debug\net6.0\Infrastracture.genruntimeconfig.cache
+C:\Users\victor\Source\Repos\DnD_API\Infrastracture\obj\Debug\net6.0\ref\Infrastracture.dll
